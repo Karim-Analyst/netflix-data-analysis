@@ -61,7 +61,4 @@ The goal is to:
 
 ## Next Steps
 -Continue cleaning Cause it still on Progress.
--Exploratory Data Analysis (EDA)
--Country dominance insights
--Director & genre performance
--Content release trends over time
+
