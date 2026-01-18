@@ -46,7 +46,6 @@ SELECT *
 FROM net_backup
 WHERE country LIKE '%,%';
 
-
 --Normalize Director Field
 UPDATE net_backup
 SET director = NULL
